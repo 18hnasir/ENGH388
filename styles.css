@@ -1,0 +1,50 @@
+h1 {
+  color: black;
+}
+
+i {
+  padding-bottom: 3%;
+}
+
+ul {
+  display: inline;
+  margin: 0 auto;
+}
+
+.container-fluid {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  padding: 3%;
+}
+
+.subtitle {
+  padding-bottom: 3%;
+}
+
+.lists {
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.header1 {
+  font-size: 55px;
+}
+
+
+#title {
+  background-color: white;
+
+}
+
+#problems {
+  background-color: #b6c867;
+
+}
+
+#solutions {
+  background-color: #ffcc29;
+}
+
+#visit {
+  background-color: white;
+}
